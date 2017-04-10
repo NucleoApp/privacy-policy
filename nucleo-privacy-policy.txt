@@ -1,6 +1,5 @@
 # Privacy Policy - nucleoapp.com
 
-Last updated: April 10, 2017
 Github repo: https://github.com/NucleoApp/privacy-policy
 
 This page informs you of Amber Creative Lab Ltd ("AmberCreative", “us”, “we”, or “our”) policies regarding the collection, use and disclosure of Personal Information when you use Nucleo icons set and web application (hereinafter “Nucleo”). We will not use or share your information with anyone except as described in this Privacy Policy.
